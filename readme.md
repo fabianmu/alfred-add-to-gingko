@@ -1,4 +1,4 @@
-# add to gingo for Alfred
+# Create a new card on gingko via alfred
 
 ## Contact
 Script by: Fabian Mu
@@ -7,7 +7,7 @@ web: <http://fabian.mu>
 
 ## What?
 
-Tiny workflow to create a new card on a ginkgo-tree.
+Tiny workflow to create a new card on a gingko-tree.
 
 ## Installation / How
 
